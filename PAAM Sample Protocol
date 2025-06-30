@@ -1,0 +1,92 @@
+Updated 4/25/25
+ 
+Part 1:
+Slide preparation for non-fluorescent beads, APTES & HMDS
+1. Take out two circular dishes, one for APTES slides and one for HMDS. Put kim wipe inside-- important only to make it easy to pick up slides without scratching them while they are still wet.
+2. Take desired number of 24 x 50 mm rectangular slides of #1.5 thickness and 10 mm circular slides out of 200 proof ethanol with tweezers. Place in dishes-- rectangles in one and circles in another.
+3. Put them in the oven briefly to dry by sitting them on a shelf with weights on top. They only need to be in long enough to dry off the ethanol, <5 mins.
+4. Briefly take out rectangular slides to deposit 10 ul of 1:1000 non-fluorescent beads in ethanol on each slide. Spread out solution with edge of pipette tip. Place back in oven until all the ethanol has evaporated.
+5. Carefully transfer them with tweezers into the plasma cleaner-- make sure that they are sitting on top of thicker slides and that they are not out in the air for too long. Sit inside, close and flip both switches on plasma cleaner-- set timer for 5 mins. See lab protocol for plasma cleaner for more information.
+6. Get out APTES + toluene solution from mini fridge--APTES should be made new approximately every 50 days or whenever solution starts to appear cloudy. See protocol for preparing APTES.
+7. Get out HMDS from flammables cabinet. Should come in a bag with a syringe.
+8. Place both in fume hood, with small metal weigh boats inside dishes.
+9.  Using syringe, put 50 ul of APTES into the weigh boat that is in the dish with the rectangular slides. Place back in fume hood.
+10. Using pipette, add 0.5 ml of HMDS into the weight boat that is in the dish with the circular slides. Place back in fume hood.
+11. Both dishes were placed in the oven at 80 degrees. Need to be in the there for at least an hour.
+ 
+12. The preparation of the gel mixture depends on the desired concentration of acrylamide and bisacrylamide. Tse (2010) has a table of frequently used concentrations and the gel modulus of elasticity that results from each. Similarly, Parrish 2017 (aka “The Composto paper)
+Below are some examples of gel mixtures we use frequently: 
+0.48E gel (mesh size 47.8 nm)
+To a 10 mL tube add: 
+ 4.475 mL of PBS  
+0.375 mL 40% acrylamide  
+0.15 mL 2% bis-acrylamide  
+5 ul TEMED 
+(Total of 5 mL) 
+Vortex gel mixture for 30 seconds
+2.01E gel (mesh size 22.3 nm)
+To a 10 mL tube add: 
+4.25 mL of PBS 
+0.5 mL 40% acrylamide  
+0.25 mL 2% bis-acrylamide  
+5 ul TEMED 
+(Total of 5 mL) 
+Vortex gel mixture for 30 seconds
+
+New gel mixtures need to be degassed in the vacuum chamber for 15 minutes.
+13.  Next, prepare new APS. APS can expire in around 12 hours, so a new batch of 10% APS + H20 should be made every time PAAM gels are created. Make sure to use the most recently opened bottle of ammonium persulfate, and nothing older than 3 months. It is very sensitive to humidity and (starting 4/25/25) should be stored in the fridge and allowed to come to room temperature completely before use. Do this by combining ammonium persulfate 1 in 10 with molecular biology water. For example, one might mix 250 mg with 2250 ul of molecular biology water. Vortex until ammonium persulfate appears completely dissolved in the water. Make sure to date and label, must be stored in refrigerator until use.
+14. Add 1000 uL of the prepared gel mixture to an epitube. Add 2.5 mg of 23-26 micron spacer beads to the epitube. Vortex for 3 seconds. 
+15. Take out the coverslips and space them apart. Add 5 uL of fresh APS to the gel-bead mixture and vortex 2-3 seconds. Make sure that you watch the drop of APS enter the epitube! It is a small amount.
+16. Add 3.5 uL drops of activated mixture on top of the APTES-side of each rectangular coverslip. Try to drop activated mixture on top of area where non-fluorescent were dried earlier.
+Place the HDMS side of the circular coverslips on top of the droplets then place a weigh boat on top (center as best as you can), then place a weight in the weigh boat.
+Let sit for at least 30 min then check the remaining mixture in the epitube has gelled up 
+(Thickness of gel should be ~21 um) 
+ 
+ To finish preparing the gels:
+ Add ~300ul molecular biology water to the edges of the coverslip (you could even submerge the whole thing in water) 
+With a razor blade, try to get under the HMDS glass in water 
+Let the water slowly fill under the glass and the coverslip should just slide oh 
+The water should now be filling the circle
+HMDS coverslips can be disposed of in the broken glass bin.
+Slide the water off the gels and soak up the residue with a kim wipe, careful not to touch the actual gels 
+Lightly “wash” gels with DI water by slowly depositing water on the slide and letting it run over the gel
+Deposit 200-600 ul of DI water on top and let soak for 36 hours to leech out monomers. 
+ 
+After the 36 hours is up:
+Tilt petri dish to slide off excess DI water and soak up with kim wipe. Then place in vacuum chamber for nitrogen dehydration. The nitrogen dehydration steps are below, but can additionally be found as an independent protocol:
+Make sure that the vacuum chamber is disconnected from the pump on the right, and that both valves are completely open.
+Connect this tubing (https://www.fishersci.com/shop/products/dehp-free-pvc-tubing-12/14387341) or one of similar specifications to the valve on the left, before connecting the other end of the tubing to the output valve on the nitrogen regulator. This output valve may already be connected to the Boltzmann chem hood, so make sure it is disconnected from there first.
+Take gels and tilt petri dish to slide off excess DI water on top. Soak up with kimwipe without touching the gel!
+Place gels inside the vacuum chamber with the lids off
+Open the nitrogen tank so that it reads 1500 psi, making sure that the regulator is also open and reading approximately 2 psi. Do not open it more than 2.5 psi.
+Walk back over to the vacuum chamber and feel the right valve to ensure that there is a steady stream of air being pushed out of it, which can be felt despite wearing gloves.
+Set a timer for 1 minute. Once the 1 minute is up, close the right valve and walk over to the nitrogen tank and turn it off at the source (not at the regulator). This step should be done with a caution towards time, as you do not want the vacuum chamber to be filling with nitrogen for an overly long time without any way for that nitrogen to be released.
+After the nitrogen is turned off, walk back over the vacuum chamber and close the left value. Set a timer for the desired amount of time for the gels to sit in nitrogen. As of 4/25/25, this time is ~18 hours.
+Once the timer is up, slowly open the right valve to release the nitrogen.
+Open the main door of the vacuum chamber and check to make sure the gels are dehydrated to the desired amount. Rehydrate with beads/q-dots/etc. as soon as possible.
+Make sure both the nitrogen tank and the regulator read 0 psi and that the tubing has been fully disconnected and stored away until next use.
+
+Once nitrogen dehydration is complete, the PDMS well needs to be prepared and affixed to the slide:
+
+PDMS Well
+Remove PDMS from the oven, spray liberally with ethanol. Also spray your gloves with ethanol, and keep an eye on them throughout this process because they need to remain moist when handling the PDMS.
+Use a metal spatula (there is usually one in the Boltzmann chem hood) to pry the edges of the pdms away from the petri dish, allowing ethanol to slip underneath it. The PDMS should be easy to remove from here. 
+Spray the surface of the glass tablet (see the desk labeled “Megan’s Bench”) liberally with ethanol. Place the PDMS on it.
+Use a razor blade to cut a piece out of the PDMS the size of the slide (cut however many you need for the number of samples you’ve made. Be mindful of the amount of cured PDMS you have and whether you’ll need to make more)
+Use the well stamper (small metal tube on Ashleigh’s desk) to stamp a hole in the middle of your rectangular piece of PDMS, as close to the center as you can
+Place cut PDMS in a petri dish in the oven for a couple minutes to evaporate the ethanol.
+Remove from oven when dry. Cut 3 small (approx. 0.5 cm x 2-3cm) of the double sided tape. Remove one side of each piece of double sided tape and place it in a triangle around the well. Remove the other side of the double sided tape, leaving behind the sticky portion of the PDMS.
+Remove slides from vacuum chamber. When you are ready, place the sticky side of the well down onto the slide, making sure to be mindful of where the gel is located.
+Press down lightly on PDMS with tweezers to ensure it is fully flat on the slide and secured.
+Deposit 500 ul of the qdots in water solution into the well, place the lid of the petri dish on it, label and date the petri dish, and then place it in the sample fridge. 
+While dehydration is going on, prepare the sample(s) that will be used to rehydrate the gels
+
+Preparation of Q-dots in Water Rehydration Sample
+ Create your desired concentration of qdots in water using serial dilutions.
+Vortex and then sonicate for 15 minutes once complete. 
+Then deposit 1 ml of this solution into an epitube and centrifuge for 30 seconds on 12,000 rpm.
+After centrifuging, draw out the top 95% of the solution to deposit into a new epitube. Label the new epitube.
+  
+Deposit 500 ul of q-dots in water into the PDMS well, on top of the gel. Let diffuse between 12-24 hours in a dark fridge before imaging. Most important: at every possibility in the process, take a moment to document notable details and anything new or out of the ordinary about these samples in your lab notebook.
+ 
+
